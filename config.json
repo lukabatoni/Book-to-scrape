@@ -1,0 +1,7 @@
+{
+  "base_url": "http://books.toscrape.com/",
+  "num_workers": 3,
+  "output_dir": "output",
+  "delay_between_requests": 1,
+  "max_retries": 3
+}
